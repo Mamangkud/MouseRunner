@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MouseRunner.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Food.cpp
+  Obstacle.cpp
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Obstacle.cpp(37,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Obstacle.cpp(135,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Obstacle.cpp(233,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Obstacle.cpp(332,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Obstacle.cpp(431,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Obstacle.cpp(529,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Obstacle.cpp(627,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Wall.cpp
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Wall.cpp(28,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Wall.cpp(126,26): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Wall.cpp(134,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Wall.cpp(225,33): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Wall.cpp(232,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Gui\Wall.cpp(322,26): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating Code...
+  Gui.vcxproj -> C:\Users\kings\Downloads\Compressed\MouseRunner_v3\MouseRunner\vs\Debug\Gui.exe
